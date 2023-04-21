@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/erfan-karimii](https://github.com/erfan-karimii)
 
-- ⚡ Fun fact **I see every one with one eye!**
+- ⚡ Fun fact **I see everyone with one eye!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
