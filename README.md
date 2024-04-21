@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bitaxi](https://github.com/erfan-karimii/bitaxi)
 
-- 🌱 I’m currently learning **restfull api , celery and postgres**
+- 🌱 I’m currently learning **RESTful api , celery and postgres**
 
 - 🤝 I’m looking for help with [modern shop](https://github.com/MasoudKheradmandi/modern_shop)
 
