@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm erfan</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-- 🔭 I’m currently working on [bitaxi](https://github.com/erfan-karimii/bitaxi)
+- 🔭 I’m currently working on [jobboard]([https://github.com/erfan-karimii/bitaxi](https://github.com/erfan-karimii/jobboard))
 
-- 🌱 I’m currently learning **RESTful api , celery and postgres**
+- 🌱 I’m currently learning **celery and crawl with bs4**
 
-- 🤝 I’m looking for help with [modern shop](https://github.com/MasoudKheradmandi/modern_shop)
+- 🤝 I’m looking for help with jobboard documentation
 
 - 💬 Ask me about **python , django**
 
