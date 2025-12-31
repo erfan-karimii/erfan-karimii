@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning fastapi internal
 
-- 🤝 I’m looking for help with jobboard documentation
-
 - 💬 Ask me about **python , django , fastapi**
 
 - 📫 How to reach me **h410mi3@gmail.com**
